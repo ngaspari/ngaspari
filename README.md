@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ngaspari
-- 👀 I’m interested in web development, mostly: PHP, Symfony, MySQL, REST API.....
-- 🌱 I’m currently learning: Laravel
+- 👀 I’m interested in web development, mostly: PHP, Symfony, Laravel, MySQL, REST APIs.....
+- 🌱 I’m currently learning: bunch of stuff :)
 
 <!---
 ngaspari/ngaspari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
